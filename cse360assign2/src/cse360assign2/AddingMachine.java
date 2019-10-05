@@ -1,9 +1,13 @@
+//Name: Shaun Miller
+//Assignment 2
+//URL: https://github.com/swmill12/cse360assign2Miller
+
 package cse360assign2;
 
 public class AddingMachine {
 
 	private int total;
-	private String output;
+	private String output;		
 	public AddingMachine () {
 		total = 0;  // not needed - included for clarity
 		output = "0";
